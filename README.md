@@ -1,6 +1,13 @@
 ### Hi there 👋
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0C8CE9&height=150&section=header&text=조동건%20입니다&fontSize=70" />
+
+
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=javascript&logoColor=#F7DF1E" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+</div>
 <!--
 **IPYURA/IPYURA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
