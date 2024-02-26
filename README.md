@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0C8CE9&height=120&section=header&text=조동건%20입니다&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0C8CE9&height=150&section=header&text=조동건%20입니다&fontSize=70" />
 <!--
 **IPYURA/IPYURA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
