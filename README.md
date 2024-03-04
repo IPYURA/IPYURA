@@ -27,7 +27,7 @@
 		<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=StyledComponents&logoColor=white" />
 		<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 	</div>
-	<h5>더 익숙해지는 중이에요!</h5>
+	<h5>계속 연습하며 더 익숙해지는 중이에요!</h5>
 	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" />
  	<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=ReactQuery&logoColor=white" />
 </div>
