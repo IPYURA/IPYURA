@@ -1,4 +1,4 @@
-### Hello World! 👋
+## Hello World! 👋
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0C8CE9&height=60&section=header" />
 
