@@ -1,4 +1,3 @@
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0C8CE9&height=60&section=header" />
 
 <div align="center">
@@ -11,6 +10,7 @@
 	<h5>많이 사용해봤어요!</h5>
 	<div>
 		<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white" />
+		<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" />
 		<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 		<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 		<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=Sass&logoColor=white" />
@@ -26,8 +26,9 @@
 		<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=StyledComponents&logoColor=white" />
 		<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 	</div>
-	<h5>계속 연습하며 더 익숙해지는 중이에요!</h5>
-	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" />
+	<h5>사용해 본 경험이 있습니다.<br/> 계속 연습하며 더 익숙해지는 중이에요!</h5>
+	<img src="https://img.shields.io/badge/Next.js-191919?style=flat&logo=Next.js&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
  	<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=ReactQuery&logoColor=white" />
 </div>
 <!--
