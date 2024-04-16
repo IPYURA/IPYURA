@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 	<h2>📚 Tech Stack 📚</h2>
-	<h5>많이 사용해봤어요!</h5>
+	<h5>저는 이런 것들을 할 수 있어요!</h5>
 	<div>
 		<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white" />
 		<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" />
@@ -25,9 +25,9 @@
 		<img src="https://img.shields.io/badge/ReactRouter-CA4245?style=flat&logo=ReactRouter&logoColor=white" />
 		<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=StyledComponents&logoColor=white" />
 		<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+		<img src="https://img.shields.io/badge/Next.js-191919?style=flat&logo=Next.js&logoColor=white"/>
 	</div>
 	<h5>사용해 본 경험이 있습니다.<br/> 계속 연습하며 더 익숙해지는 중이에요!</h5>
-	<img src="https://img.shields.io/badge/Next.js-191919?style=flat&logo=Next.js&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
  	<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=ReactQuery&logoColor=white" />
 </div>
